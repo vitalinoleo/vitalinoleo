@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="linkedin.com/in/leonardo-lira-03a0b2330">
+<a href="https://www.linkedin.com/in/leonardo-lira-03a0b2330/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
