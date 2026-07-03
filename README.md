@@ -1,7 +1,17 @@
-## Hi there 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Leonardo+Vitalino" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Leonardo+Vitalino" />
+</p>
+<p align="center">
+Estudante de Ciência da Computação • Técnico em Desenvolvimento de Sistemas • Desenvolvedor Front-End
+</p>
+<p align="center">
+<a href="https://github.com/seuusuario?tab=repositories">
+<img src="https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/seulinkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
 
 ## 🛠️ Tecnologias
