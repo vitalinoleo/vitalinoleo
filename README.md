@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="[https://github.com/SEU_USUARIO?tab=repositories](https://github.com/vitalinoleo?tab=repositories)">
+<a href="<a href="https://github.com/vitalinoleo?tab=repositories">">
   <img src="https://img.shields.io/badge/My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
