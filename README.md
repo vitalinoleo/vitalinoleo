@@ -3,7 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Leonardo+Vitalino" alt="Typing SVG" />
 
 ### 🎓 Técnico em Desenvolvimento de Sistemas — SENAI
-### ☕ Aprimorando meus conhecimentos em Java
+### ☕ Atualmente focado em Java e desenvolvimento de software
+### 💻 Desenvolvedor de Software em formação
 
 <br>
 
@@ -31,13 +32,17 @@
 
 # 👨‍💻 Sobre mim
 
-Sou formado no **Técnico em Desenvolvimento de Sistemas pelo SENAI**.
+Minha trajetória na tecnologia começou aos 16 anos, quando iniciei o curso Técnico em Desenvolvimento de Sistemas pelo SENAI.
 
-Atualmente estou aprimorando meus conhecimentos em **Java**, desenvolvendo minha lógica de programação e colocando em prática os conceitos aprendidos através de exercícios e projetos.
+Desde então, venho desenvolvendo meus conhecimentos em programação e desenvolvimento de software, buscando transformar cada novo aprendizado em projetos e experiências práticas.
 
-Também possuo conhecimentos em desenvolvimento web e continuo evoluindo constantemente como desenvolvedor.
+Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software, com foco em **Java**, além de conhecimentos em **JavaScript, HTML, CSS, APIs REST e Git/GitHub**.
 
-Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de programação.
+Tenho interesse em oportunidades na área de tecnologia, especialmente em **Desenvolvimento de Software**, onde possa aplicar meus conhecimentos, contribuir com a equipe e continuar evoluindo profissionalmente.
+
+Sou uma pessoa curiosa, dedicada e gosto de aprender na prática, buscando constantemente novos desafios e conhecimentos na área de tecnologia.
+
+**Tecnologias:** Java • JavaScript • HTML • CSS • APIs REST • Git/GitHub
 
 ---
 
@@ -53,12 +58,18 @@ Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de 
 
 # 📚 Atualmente estudando
 
-- Java
-- Lógica de Programação
+☕ Java
+- Lógica de programação
+- Estruturas de decisão
+- Switch
+- Vetores
+- Orientação a objetos
+
+🌐 Desenvolvimento Web
 - HTML5
 - CSS3
 - JavaScript
-- Git e GitHub
+- APIs REST
 
 
 <div align="center">
