@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Leonardo+Vitalino" alt="Typing SVG" />
 
 ### 🎓 Técnico em Desenvolvimento de Sistemas — SENAI
-### 💻 Desenvolvedor em formação
 ### ☕ Aprimorando meus conhecimentos em Java
 
 <br>
@@ -60,7 +59,6 @@ Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de 
 - CSS3
 - JavaScript
 - Git e GitHub
-- Desenvolvimento Front-End
 
 
 <div align="center">
