@@ -1,67 +1,32 @@
-<div align="center">
+# Olá! Eu sou Leonardo Vitalino 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Leonardo+Vitalino" alt="Typing SVG" />
+💻 Desenvolvedor em formação, com foco em desenvolvimento de software.
 
-### 🎓 Estudante de Ciência da Computação
-### 💻 Formado no Técnico em Desenvolvimento de Sistemas — SENAI
-### 🚀 Desenvolvedor Front-End em formação
+🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI — concluído.
 
-<br>
+☕ Atualmente estou aprimorando meus conhecimentos em **Java**, estudando lógica de programação, estruturas de decisão, vetores, orientação a objetos e desenvolvimento de aplicações.
 
-<a href="https://github.com/vitalinoleo?tab=repositories">
-  <img src="https://img.shields.io/badge/My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+## 🚀 Tecnologias e conhecimentos
 
-<a href="https://www.linkedin.com/in/leonardo-lira-03a0b2330/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:leonardohlirah@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vitalinoleo&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalinoleo&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 👨‍💻 Sobre mim
-
-Sou estudante de **Ciência da Computação** e formado no **Técnico em Desenvolvimento de Sistemas pelo SENAI**.
-
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, construindo projetos práticos e evoluindo constantemente como desenvolvedor.
-
-Estou sempre em busca de aprender novas tecnologias e aplicar boas práticas de programação.
-
----
-
-# 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
-
-</div>
-
----
-
-# 📚 Atualmente estudando
-
-- HTML5
-- CSS3
+- Java
+- HTML
+- CSS
 - JavaScript
-- Git e GitHub
-- Desenvolvimento Front-End
+- Git
+- GitHub
+- APIs REST
 
+## 📚 Atualmente estudando
 
-<div align="center">
+**Java**
 
-### ⭐ Obrigado pela visita!
+Estou aprofundando meus conhecimentos na linguagem através de exercícios práticos e projetos, buscando evoluir minha lógica de programação e minhas habilidades de desenvolvimento.
 
-<br>
-</div>
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade profissional na área de tecnologia, com interesse em desenvolvimento de software e disposição para aprender, evoluir e contribuir com a equipe.
+
+## 🔗 Onde me encontrar
+
+- GitHub: [github.com/vitalinoleo](https://github.com/vitalinoleo)
+- LinkedIn: [seu LinkedIn]
